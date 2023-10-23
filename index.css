@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin', sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    margin-top: 200px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+.qone {
+    margin: 30px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+.qtwo {
+    margin: 30px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+
+a {
+    height: 15px;
+    text-decoration: none;
+    background-color: #42D9C8;
+    color: black;
+    border: 2px solid #42D9C8;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 15px;
+
+}
+
+p {
+    color: white;
+}
